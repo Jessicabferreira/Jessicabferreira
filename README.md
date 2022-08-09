@@ -1,4 +1,4 @@
-### Olá, Eu sou a Jessica Ferreira 👋🏻
+### Olá! Sou a Jessica Ferreira, bem vindo ao meu Github 👋🏻
 
 ![jessicabferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicabferreira&show_icons=true&theme=radical)
 
