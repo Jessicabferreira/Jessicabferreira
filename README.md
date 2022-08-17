@@ -1,8 +1,9 @@
 ### Olá eu sou a Jessica Ferreira, bem vindo ao meu Github! 👋🏻
 ##
+<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicabferreira&layout=compact&langs_icons=true&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicabferreira&layout=compact&langs_icons=true&theme=radical"/>
-
+</div>
 
 ## Tecnologias que eu estudo
 
