@@ -1,5 +1,6 @@
-### Olá eu sou a Jessica Ferreira, bem vindo ao meu GitHub! 👋🏻
-##
+### Hello world! 
+### Jessica Ferreira é meu nome, bem vindo ao meu GitHub! 👋🏻
+
 <div align="center">
     <a href="https://github.com/jessicabferreira">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessicabferreira&layout=compact&langs_count=true&theme=radical"/>
