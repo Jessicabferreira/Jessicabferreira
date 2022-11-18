@@ -11,12 +11,12 @@
 ## Tecnologias que eu estudo
 
 <img style="display: inline_block"><br>
-  <img alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
-  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
+  <img alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
+  <img alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
+  <img alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
+  <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
+  <img alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
+
   
   ![Snake animation](https://github.com/jessicabferreira/jessicabferreira/blob/output/github-contribution-grid-snake.svg)
