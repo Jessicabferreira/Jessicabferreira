@@ -20,4 +20,5 @@
   <code>[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)</code>
 
 
+
   ![Snake animation](https://github.com/jessicabferreira/jessicabferreira/blob/output/github-contribution-grid-snake.svg)
