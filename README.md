@@ -10,7 +10,8 @@
 
 ## Tecnologias que eu estudo
 
-<div style="display: inline_block"><br>
+<img style="display: inline_block"><br>
+  <img alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -19,4 +20,3 @@
   <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   
   ![Snake animation](https://github.com/jessicabferreira/jessicabferreira/blob/output/github-contribution-grid-snake.svg)
-</div>
