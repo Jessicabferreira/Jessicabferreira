@@ -15,7 +15,9 @@
 <code><img alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="rails" width="50" height="50" style="max-width:100%;"></img></code>
 <code><img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="rails" width="50" height="50" style="max-width:100%;"></img></code>
 <code>[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)</code>
-  
+<div align="right">
+  <img src="https://user-images.githubusercontent.com/101604106/202816265-c8a2d9ea-3d79-483d-ba64-6a1ad33ee1cf.png" width="200px" />
+</div>  
   
 </br>
 </br>
@@ -25,9 +27,6 @@
 <a href="https://www.https://www.linkedin.com/in/jessica-ferreira-875894236/">
    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
-</div>
-<div align="right">
-  <img src="https://user-images.githubusercontent.com/101604106/202816265-c8a2d9ea-3d79-483d-ba64-6a1ad33ee1cf.png" width="200px" />
 </div>
 
   ![Snake animation](https://github.com/jessicabferreira/jessicabferreira/blob/output/github-contribution-grid-snake.svg)
