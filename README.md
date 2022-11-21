@@ -24,7 +24,7 @@
 
 ## Meu LinkdIn
 <div dsplay="inline-block"> 
-<a href="https://www.linkedin.com/in/jessica-ferreira-875894236/">
+<a href="(https://www.linkedin.com/in/jessica-b-ferreira/)">
    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
