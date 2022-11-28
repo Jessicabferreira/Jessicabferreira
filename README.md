@@ -15,8 +15,8 @@
 <code><img alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="rails" width="50" height="50" style="max-width:100%;"></img></code>
 <code><img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="rails" width="50" height="50" style="max-width:100%;"></img></code>
 <code>[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)</code>
-
-
+</br>
+</br>
 
 ## Meu LinkdIn
 <div dsplay="inline-block"> 
