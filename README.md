@@ -18,9 +18,7 @@
 <div align="right">
   <img src="https://user-images.githubusercontent.com/101604106/202816265-c8a2d9ea-3d79-483d-ba64-6a1ad33ee1cf.png" width="200px" />
 </div>  
-  
-</br>
-</br>
+
 
 ## Meu LinkdIn
 <div dsplay="inline-block"> 
