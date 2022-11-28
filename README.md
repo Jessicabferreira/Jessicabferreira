@@ -7,7 +7,7 @@
 </div>
 
 
-### 🖥️ Tecnologias em desenvolvimento:
+## 🖥️ Tecnologias em desenvolvimento:
 <img style="display: inline_block"><br>
 <code><img alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="rails" width="50" height="50" style="max-width:100%;"></img></code>
 <code><img alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="rails" width="50" height="50" style="max-width:100%;"></img></code>
