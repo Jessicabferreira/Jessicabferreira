@@ -13,6 +13,7 @@
 <code><img alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="rails" width="50" height="50" style="max-width:100%;"></img></code>
 <code><img alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img></code>
 <code><img alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="rails" width="50" height="50" style="max-width:100%;"></img></code>
+<code><img alt="ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="rails" width="50" height="50" style="max-width:100%;"></img></code>
 <code><img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="rails" width="50" height="50" style="max-width:100%;"></img></code>
 <code>[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)</code>
 <code>[![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)</code>
